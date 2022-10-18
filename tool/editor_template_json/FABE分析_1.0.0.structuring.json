@@ -1,12 +1,12 @@
 {
     "toolVesion": "0.0.1",
     "commonParameter": {
-        "columnsCount": 1,
+        "columnsCount": 0,
         "editMode": {
             "editModeConfigFixed": false,
             "columnsFixed": false,
             "recordFixed": false,
-            "recordHideModeFixed": false,
+            "recordHideModeFixed":false,
             "headerValueFixed": false,
             "titleValueFixed": false,
             "valuesHideModeFixed": false,
@@ -17,7 +17,7 @@
             "sheetIdFixed": false
         },
         "titleStyles": {
-            "width": 350
+            "width": 1726
         }
     },
     "scriptInfo": {
@@ -34,48 +34,26 @@
             "title": {
                 "height": 29
             },
-            "valueList": [
-                {
-                    "width": 1240
-                }
-            ]
+            "valueList": []
         },
         "values": {
             "title": "",
-            "valueList": [
-                {
-                    "value": "",
-                    "type": "quill"
-                }
-            ]
+            "valueList": []
         }
     },
     "childItems": [
         {
             "valuesStyles": {
                 "title": {
-                    "height": 32
+                    "height": 31
                 },
-                "valueList": [
-                    {
-                        "width": 1240
-                    }
-                ]
+                "valueList": []
             },
             "values": {
                 "titleType": "",
                 "title": "<p>FABE分析</p>",
-                "valueList": [
-                    {
-                        "value": "",
-                        "type": "quill"
-                    }
-                ],
-                "note": [
-                    {
-                        "value": "<p><br></p><p>プレゼンテーションにおける訴求ポイントや商品の特徴・ベネフィットなどを分析する際に用いられる手法</p><p><br></p>"
-                    }
-                ]
+                "valueList": [],
+                "note": []
             },
             "attribute": {
                 "metaInfo": [],
@@ -83,35 +61,22 @@
                 "review": [],
                 "changeHistory": [],
                 "hideDate": "",
-                "viewValueList": false,
+                "viewValueList": true,
                 "viewChildItems": true
             },
             "childItems": [
                 {
                     "valuesStyles": {
                         "title": {
-                            "height": 168
+                            "height": 31
                         },
-                        "valueList": [
-                            {
-                                "width": 1240
-                            }
-                        ]
+                        "valueList": []
                     },
                     "values": {
                         "titleType": "",
-                        "title": "<p><br></p><p><br></p><p><br></p><p>Feature (特徴)</p><p><br></p><p><br></p><p><br></p>",
-                        "valueList": [
-                            {
-                                "value": "",
-                                "type": "quill"
-                            }
-                        ],
-                        "note": [
-                            {
-                                "value": "<p><br></p><p>Featureとは商品・サービスの特徴のこと。</p><p>ここでいう特徴とは商品・サービスの機能や仕様に関する情報で、プレゼンテーションの「企画概要」を指す。 </p><p>この特徴をまとめる際には「一言でいうと何か？」を意識することが重要。</p><p><br></p><p>商品提案やプレゼンテーションにおいて、長々と特徴を述べてもお客様は困惑してしまう。シンプルにまとめることを心がけること。</p><p><br></p>"
-                            }
-                        ]
+                        "title": "<p>Feature（商品・サービスの特徴）</p>",
+                        "valueList": [],
+                        "note": []
                     },
                     "attribute": {
                         "metaInfo": [],
@@ -119,37 +84,120 @@
                         "review": [],
                         "changeHistory": [],
                         "hideDate": "",
-                        "deleteRecordDate": "",
                         "viewValueList": true,
                         "viewChildItems": true
                     },
-                    "childItems": []
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
                 },
                 {
                     "valuesStyles": {
                         "title": {
-                            "height": 168
+                            "height": 31
                         },
-                        "valueList": [
-                            {
-                                "width": 1240
-                            }
-                        ]
+                        "valueList": []
                     },
                     "values": {
                         "titleType": "",
-                        "title": "<p><br></p><p><br></p><p><br></p><p>Advantage (優位性)</p><p><br></p><p><br></p><p><br></p>",
-                        "valueList": [
-                            {
-                                "value": "",
-                                "type": "quill"
-                            }
-                        ],
-                        "note": [
-                            {
-                                "value": "<p><br></p><p>Advantageは商品・サービスの競合に対する自社の優位性、メリット。</p><p>「競合に対する」優位性であるため、競合や業界全体の情報を収集する必要。</p><p><br></p><p>競合が取り扱っている商品・サービスのターゲットや価格帯、</p><p>プロポーションなどマーケティングの複数の観点から多角的に分析する。</p><p>そのうえで、Featureで分析した自社の商品・サービスの特徴と比較して優位性を整理していくとまとめやすくなる。</p><p><br></p>"
-                            }
-                        ]
+                        "title": "<p>Advantage（商品・サービスのメリット）</p>",
+                        "valueList": [],
+                        "note": []
                     },
                     "attribute": {
                         "metaInfo": [],
@@ -157,37 +205,120 @@
                         "review": [],
                         "changeHistory": [],
                         "hideDate": "",
-                        "deleteRecordDate": "",
                         "viewValueList": true,
                         "viewChildItems": true
                     },
-                    "childItems": []
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
                 },
                 {
                     "valuesStyles": {
                         "title": {
-                            "height": 168
+                            "height": 31
                         },
-                        "valueList": [
-                            {
-                                "width": 1240
-                            }
-                        ]
+                        "valueList": []
                     },
                     "values": {
                         "titleType": "",
-                        "title": "<p><br></p><p><br></p><p><br></p><p>Benefit (顧客便益)</p><p><br></p><p><br></p><p><br></p>",
-                        "valueList": [
-                            {
-                                "value": "",
-                                "type": "quill"
-                            }
-                        ],
-                        "note": [
-                            {
-                                "value": "<p><br></p><p>「商品・サービスを通じてお客さまが得られる価値」のこと。</p><p>商品・サービスの強みや優位性を述べるだけでは、お客様にどのようなメリットがあるのかわからない。</p><p>商品・サービスを使うことでお客様にどのようなメリットが生まれるのかを考えることが重要。</p><p><br></p>"
-                            }
-                        ]
+                        "title": "<p>Benefit（お客さまが得られる価値）</p>",
+                        "valueList": [],
+                        "note": []
                     },
                     "attribute": {
                         "metaInfo": [],
@@ -195,37 +326,120 @@
                         "review": [],
                         "changeHistory": [],
                         "hideDate": "",
-                        "deleteRecordDate": "",
                         "viewValueList": true,
                         "viewChildItems": true
                     },
-                    "childItems": []
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
                 },
                 {
                     "valuesStyles": {
                         "title": {
-                            "height": 168
+                            "height": 31
                         },
-                        "valueList": [
-                            {
-                                "width": 1240
-                            }
-                        ]
+                        "valueList": []
                     },
                     "values": {
                         "titleType": "",
-                        "title": "<p><br></p><p><br></p><p><br></p><p>Evidence(証拠)</p><p><br></p><p><br></p><p><br></p>",
-                        "valueList": [
-                            {
-                                "value": "",
-                                "type": "quill"
-                            }
-                        ],
-                        "note": [
-                            {
-                                "value": "<p><br></p><p>Feature・Advantage・Benefitの証拠となるデータ・事例</p><p><br></p>"
-                            }
-                        ]
+                        "title": "<p>Evidens（証拠となるデータ）</p>",
+                        "valueList": [],
+                        "note": []
                     },
                     "attribute": {
                         "metaInfo": [],
@@ -233,11 +447,107 @@
                         "review": [],
                         "changeHistory": [],
                         "hideDate": "",
-                        "deleteRecordDate": "",
                         "viewValueList": true,
                         "viewChildItems": true
                     },
-                    "childItems": []
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
                 }
             ]
         }
